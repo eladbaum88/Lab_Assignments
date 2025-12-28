@@ -1,0 +1,11 @@
+Debug flag now on
+Debug: unit_size=1
+Debug: file_name=''
+Debug: mem_count=0
+Debug: file name set to 'abc'
+Debug: unit_size=1
+Debug: file_name='abc'
+Debug: mem_count=0
+Debug: unit_size=1
+Debug: file_name='abc'
+Debug: mem_count=0
